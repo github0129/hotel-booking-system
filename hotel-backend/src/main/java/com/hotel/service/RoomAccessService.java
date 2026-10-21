@@ -17,4 +17,3 @@ public interface RoomAccessService {
 
     void resetLockout(String roomNumber);
 }
-

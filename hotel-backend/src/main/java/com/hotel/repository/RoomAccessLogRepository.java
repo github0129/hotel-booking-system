@@ -14,4 +14,3 @@ public interface RoomAccessLogRepository extends JpaRepository<RoomAccessLog, Lo
 
     List<RoomAccessLog> findTop20ByOrderByAttemptTimeDesc();
 }
-

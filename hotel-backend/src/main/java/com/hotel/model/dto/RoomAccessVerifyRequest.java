@@ -13,4 +13,3 @@ public class RoomAccessVerifyRequest {
     private Boolean isValidCard;
     private String deviceId;
 }
-
