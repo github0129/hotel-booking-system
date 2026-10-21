@@ -49,4 +49,3 @@ public class RoomAccessController {
         return ResponseEntity.ok(Map.of("message", "房號 " + roomNumber + " 門鎖狀態已手動重設解除鎖定"));
     }
 }
-

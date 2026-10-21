@@ -44,4 +44,3 @@ public class RoomAccessLog {
     @Column(name = "device_id", length = 50)
     private String deviceId;
 }
-

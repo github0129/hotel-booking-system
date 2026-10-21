@@ -17,4 +17,3 @@ public class RoomAccessVerifyResponse {
     private String roomNumber;
     private String cardId;
 }
-

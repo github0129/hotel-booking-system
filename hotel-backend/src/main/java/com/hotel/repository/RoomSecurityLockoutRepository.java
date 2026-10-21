@@ -8,4 +8,3 @@ import com.hotel.model.entity.RoomSecurityLockout;
 @Repository
 public interface RoomSecurityLockoutRepository extends JpaRepository<RoomSecurityLockout, String> {
 }
-
